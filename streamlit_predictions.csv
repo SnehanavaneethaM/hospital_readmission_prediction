@@ -1,0 +1,2 @@
+Age,Time_in_Hospital,Lab_Procedures,Procedures,Medications,Outpatient,Emergency,Inpatient,Prediction,Risk (%)
+60,4,40,1,13,0,0,0,0,95.33
